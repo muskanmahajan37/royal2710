@@ -19,9 +19,9 @@
   </a> 
 </p>
 
-### Tools and stuff I use
+## Tools and stuff I use
 
-#### Tools & Stuff
+### Tools & Stuff
 <p align="left">
   <a href="#">
     <img src="images/bash.svg" alt="" style="vertical-align:top margin:6px 4px">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-#### Services 
+### Services 
 <p align="left">
   <a href="#">
     <img src="images/aws.svg" alt="" style="vertical-align:top margin:6px 4px">
@@ -62,7 +62,7 @@
   </a>
 </p>
 
-#### Frameworks
+### Frameworks
 <p align="left">
   <a href="#">
     <img src="images/nodejs.svg" alt="" style="vertical-align:top margin:6px 4px">
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-#### Languages
+### Languages
 <p align="left">
   <a href="#">
     <img src="images/js.svg" alt="" style="vertical-align:top margin:6px 4px">
@@ -82,7 +82,7 @@
   </a>
 </p>
 
-### Stats and counters
+## Stats and counters
 
 ![](https://komarev.com/ghpvc/?username=derrickmehaffy)
 
