@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="mailto: derrick.mehaffy@strapi.io">
     <img src="images/email_me.svg" alt="Email Me" style="vertical-align:top margin:6px 4px">
   </a>
@@ -22,7 +22,7 @@
 ### Tools and stuff I use
 
 #### Tools & Stuff
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="images/bash.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
@@ -41,7 +41,7 @@
 </p>
 
 #### Services 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="images/aws.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
@@ -63,7 +63,7 @@
 </p>
 
 #### Frameworks
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="images/nodejs.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
@@ -73,7 +73,7 @@
 </p>
 
 #### Languages
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="images/js.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
