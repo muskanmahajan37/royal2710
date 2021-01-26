@@ -1,20 +1,20 @@
-### Hi there I'm Derrick - aka DMehaffy 👋
+### Hi there. 👋
 
-## I'm a Solutions Engineer for [Strapi](https://strapi.io)
+## I'm a Software Engineer for Web & Mobile App Development
 
 ### Connect with me:
 
 <p align="left">
-  <a href="mailto: derrick.mehaffy@strapi.io">
+  <a href="mailto: royal2710@outlook.com">
     <img src="images/email_me.svg" alt="Email Me" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="https://www.linkedin.com/in/derrick-mehaffy/">
+  <a href="https://www.linkedin.com/in/royal2710/">
     <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="https://twitter.com/derrickmehaffy">
+  <a href="https://twitter.com/unknown">
     <img src="images/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="https://www.twitch.tv/dmehaffy_strapi">
+  <a href="https://www.twitch.tv/unknown">
     <img src="images/twitch.svg" alt="Twitch" style="vertical-align:top margin:6px 4px">
   </a> 
 </p>
@@ -86,6 +86,6 @@
 
 ![](https://komarev.com/ghpvc/?username=derrickmehaffy)
 
-[![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=derrickmehaffy&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=royal2710&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickmehaffy&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royal2710&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
