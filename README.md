@@ -10,13 +10,7 @@
   </a>
   <a href="https://www.linkedin.com/in/royal2710/">
     <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="https://twitter.com/unknown">
-    <img src="images/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="https://www.twitch.tv/unknown">
-    <img src="images/twitch.svg" alt="Twitch" style="vertical-align:top margin:6px 4px">
-  </a> 
+  </a>
 </p>
 
 ## Tools and stuff I use
