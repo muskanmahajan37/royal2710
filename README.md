@@ -73,6 +73,12 @@
   <a href="#">
     <img src="images/vue.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="#">
+    <img src="images/react.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="images/django.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
 </p>
 
 ### Languages
