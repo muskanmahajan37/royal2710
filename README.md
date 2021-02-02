@@ -72,7 +72,7 @@
     <img src="images/js.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="images/php.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/php.svg" alt="" style="vertical-align:top margin:6px 4px height: 32px">
   </a> 
   <a href="#">
     <img src="images/python.svg" alt="" style="vertical-align:top margin:6px 4px">
