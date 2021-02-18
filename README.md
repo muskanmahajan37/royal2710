@@ -96,7 +96,8 @@
 
 ## Stats and counters
 
-![](https://komarev.com/ghpvc/?username=derrickmehaffy)
+<!-- ![](https://komarev.com/ghpvc/?username=derrickmehaffy) -->
+![](https://hit.yhype.me/github/profile?user_id=52915822)
 
 [![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=royal2710&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
