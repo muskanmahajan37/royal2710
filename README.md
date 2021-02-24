@@ -27,9 +27,6 @@
     <img src="images/git.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
-    <img src="images/raspberrypi.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="#">
     <img src="images/visualstudio_code.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
