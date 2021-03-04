@@ -33,7 +33,7 @@
     <img src="images/visualstudio_code.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://www.sublimetext.com/">
-    <img src="images/sublime_text.svg" alt="" style="vertical-align:top margin:6px 4px">
+    <img src="images/sublime-text.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
