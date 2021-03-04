@@ -23,14 +23,17 @@
   <a href="#">
     <img src="images/bash.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="#">
+  <a href="https://www.google.com/chrome/">
     <img src="images/chrome.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
+  <a href="https://git-scm.com/">
     <img src="images/git.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
+  <a href="https://code.visualstudio.com/">
     <img src="images/visualstudio_code.svg" alt="" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="https://www.sublimetext.com/">
+    <img src="images/sublime_text.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
