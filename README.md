@@ -5,11 +5,11 @@
 ### Connect with me:
 
 <p align="left">
+  <a href="skype:live:.cid.4138a976227638ac" target="_self">
+    <img src="images/skype.svg" alt="Skype" style="vertical-align:top margin:6px 4px">
+  </a>
   <a href="mailto: royal2710@outlook.com">
     <img src="images/email_me.svg" alt="Email Me" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="skype:live:.cid.4138a976227638ac">
-    <img src="images/skype.svg" alt="Skype" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://www.linkedin.com/in/royal2710/">
     <img src="images/linkedin.svg" alt="LinkedIn" style="vertical-align:top margin:6px 4px">
