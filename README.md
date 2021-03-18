@@ -103,4 +103,4 @@
 
 [![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=royal2710&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royal2710&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royal2710&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
