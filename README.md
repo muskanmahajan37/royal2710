@@ -79,9 +79,9 @@
   <a href="#">
     <img src="images/react.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="images/django.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
+  </a> -->
 </p>
 
 ### Languages
@@ -92,9 +92,9 @@
   <a href="#">
     <img src="images/php.svg" alt="" style="vertical-align:top margin:6px 4px">
   </a> 
-  <a href="#">
+  <!-- <a href="#">
     <img src="images/python.svg" alt="" style="vertical-align:top margin:6px 4px">
-  </a>
+  </a> -->
 </p>
 
 ## Stats and counters
