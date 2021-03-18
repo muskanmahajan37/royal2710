@@ -101,11 +101,9 @@
 
 ![](https://komarev.com/ghpvc/?username=derrickmehaffy)
 
-<div class="row">
-  <div class="col-7">
-    [![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=royal2710&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
-  </div>
-  <div class="col-5">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royal2710&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
-  </div>
-</div>
+<p style="width: 60%">
+  [![DMehaffy's Stats](https://github-readme-stats.vercel.app/api?username=royal2710&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
+</p>
+<p style="width: 40%">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royal2710&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+</p>
